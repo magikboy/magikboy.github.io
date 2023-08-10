@@ -1,4 +1,4 @@
 # Portafolio
 
 
-https://magikboy.github.io/index.html
+https://magikboy.github.io
